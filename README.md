@@ -16,7 +16,7 @@ SNS
 
 発信系はあまりしていない。
 
-* ![Twitter Follow](https://img.shields.io/twitter/follow/Pc53464314?style=social)
+* [![Twitter Follow](https://img.shields.io/twitter/follow/Pc53464314?style=social)](https://twitter.com/Pc53464314)
 * [Instagram](https://instagram.com/n._akira/)
 * [Qiita](https://qiita.com/Pc53464314)
 
