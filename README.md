@@ -25,6 +25,10 @@ Github ステータス
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canaria-computer)
 
+16personalities
+---
+
+[私の16personalitiesのプロフィール](https://www.16personalities.com/profiles/b61bfb42b17e2)
 
 <!--
 **canaria-computer/canaria-computer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
